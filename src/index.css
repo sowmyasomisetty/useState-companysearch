@@ -1,9 +1,9 @@
 /* styles.css - Background Styling */
 body {
-  background: url("./assets/bg.jpg");
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 0;
+  background:url("./assets/bg.jpg");
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:0;
 }
