@@ -1,0 +1,9 @@
+/* styles.css - Background Styling */
+body {
+  background: url("src/assets/bg.jpg");
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
