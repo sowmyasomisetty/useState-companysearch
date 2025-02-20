@@ -1,10 +1,13 @@
 {
+  "home": "https://sowmyasomisetty.github.io/useState-companysearch",
   "name": "template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy":"npm run build",
+    "display": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
